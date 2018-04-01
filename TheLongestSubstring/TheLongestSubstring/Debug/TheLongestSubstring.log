@@ -1,0 +1,5 @@
+﻿  TheLongestSubstring.cpp
+c:\users\sotnik\documents\visual studio 2015\projects\thelongestsubstring\thelongestsubstring\thelongestsubstring.cpp(36): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\sotnik\documents\visual studio 2015\projects\thelongestsubstring\thelongestsubstring\thelongestsubstring.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+  TheLongestSubstring.vcxproj -> C:\Users\Sotnik\documents\visual studio 2015\Projects\TheLongestSubstring\Debug\TheLongestSubstring.exe
+  TheLongestSubstring.vcxproj -> C:\Users\Sotnik\documents\visual studio 2015\Projects\TheLongestSubstring\Debug\TheLongestSubstring.pdb (Partial PDB)

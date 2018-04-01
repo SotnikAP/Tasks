@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\algorithm(69): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\algorithm(77): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::_For_each_unchecked<double*,_Fn1>(_InIt,_InIt,_Fn1 &)"
+          with
+          [
+              _Fn1=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _InIt=double *
+          ]
+  main.cpp(24): note: см. ссылку на создание экземпляров функции шаблон при компиляции "_Fn1 std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>>(_InIt,_InIt,_Fn1)"
+          with
+          [
+              _Fn1=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
